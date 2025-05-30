@@ -16,7 +16,7 @@
 - Завершает покупку
 - Проверяет наличие сообщения Thank you for your order!
 
-Запуск: python e2e_test.py
+Запуск: python e2e.py
 Ожидаемый результат: Покупка успешно завершена!
 
 ## 2. GitHub API тест (test_api.py)
